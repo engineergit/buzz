@@ -4,7 +4,6 @@ build/
 .pytest_cache/
 .coverage*
 !.coveragerc
-.env
 .DS_Store
 htmlcov/
 coverage.xml
@@ -40,3 +39,5 @@ benchmarks.json
 /.flatpak-builder
 /repo
 /nemo_msdd_configs
+config.bat
+node_modules
